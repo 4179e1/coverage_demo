@@ -1,0 +1,1 @@
+来自 https://yizhi.ren/2019/06/15/gocoverage/
